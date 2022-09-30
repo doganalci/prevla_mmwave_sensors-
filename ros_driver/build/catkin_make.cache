@@ -1,0 +1,2 @@
+serial:ti_mmwave_rospkg
+-DCATKIN_DEVEL_PREFIX=/home/doga18/Desktop/mmwave_ti_ros/ros_driver/devel -DCMAKE_INSTALL_PREFIX=/home/doga18/Desktop/mmwave_ti_ros/ros_driver/install -G Unix Makefiles
